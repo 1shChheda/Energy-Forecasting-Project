@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+torch
+torchvision
+jupyter
+streamlit  # optional frontend
